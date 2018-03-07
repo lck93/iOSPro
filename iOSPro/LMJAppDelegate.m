@@ -6,16 +6,16 @@
 //  Copyright © 2018年 Tom. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "LMJAppDelegate.h"
 #import "MainTabbarController.h"
 #import "AddPlusBtn.h"
 #import "CYLTabBarControllerConfig.h"
 
-@interface AppDelegate ()<UITabBarControllerDelegate,CYLTabBarControllerDelegate>
+@interface LMJAppDelegate ()<UITabBarControllerDelegate,CYLTabBarControllerDelegate>
 
 @end
 
-@implementation AppDelegate
+@implementation LMJAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
