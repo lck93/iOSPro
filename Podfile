@@ -24,7 +24,7 @@ pod 'Masonry'
 pod 'UMengAnalytics'
 # U-Share SDK UI模块（分享面板，建议添加）
 
-
+pod 'MOFSPickerManager', '~> 1.0.4'
 
 #百度地图SDK
 
